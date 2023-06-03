@@ -1,4 +1,4 @@
-age= 18
+age= 24
 if age <= 18:
     print('You cant vote')
 if age >= 18:
