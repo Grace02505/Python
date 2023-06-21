@@ -6,6 +6,9 @@
 #else:
 #    print('you can vote')
 
+file = open('words.py')
+print(file.read())
+
 
 
 
